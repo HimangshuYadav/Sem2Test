@@ -292,7 +292,6 @@ img{
 .icon-kk{
   width: 80%;
   height: 70%;
-  border: 1px solid white;
 }
 
 
@@ -306,19 +305,15 @@ img{
 .container-kk{
   height: 500px;
   width: 100%;
-  border: 1px solid white;
 }
 
 .card-kk{
   width: 25%;
   height: 90%;
-  border: 1px solid white;
-
 }
 
 .top-kk{
   height: 10%;
-  border: 1px solid white;
   display: flex;
   align-items: center;
 }
